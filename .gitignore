@@ -1,5 +1,6 @@
 #Don't push download files to Github
 downloads/
+outputs/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
